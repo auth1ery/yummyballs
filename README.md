@@ -19,19 +19,19 @@ you control the ball ("O") and must avoid obstacles as the map scrolls upward.
 
 controls
 
-key| action
-"a"| move left
-"l"| move right
-"e"| exit game
+key| action.  
+"a"| move left.  
+"l"| move right.  
+"e"| exit game.  
 
 tiles
 
-symbol| meaning
-"O"| player
-"#"| obstacle
-"X"| deadly obstacle
-"+"| bonus score
-"G"| gold bonus (score multiplier)
+symbol| meaning.  
+"O"| player.  
+"#"| obstacle.  
+"X"| deadly obstacle.  
+"+"| bonus score.  
+"G"| gold bonus (score multiplier)   
 
 # installation
 
