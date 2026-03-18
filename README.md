@@ -24,6 +24,11 @@ key| action.
 "l"| move right.  
 "e"| exit game.  
 
+the controls are intentional, this assumes you have a QWERTY keyboard, its basically:
+- A for left hand to move left
+- L for right hand to move right
+it just needs a bit of getting used to.
+
 tiles
 
 symbol| meaning.  
