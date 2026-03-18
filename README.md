@@ -4,6 +4,10 @@ a small terminal arcade game written in python using curses with an insanely hig
 
 dodge falling obstacles, collect bonuses, and try to survive as the game speeds up. the longer you survive, the harder it gets!
 
+# preview
+
+[![asciicast](https://asciinema.org/a/waZQ8b4wXwSUkolg.svg)](https://asciinema.org/a/waZQ8b4wXwSUkolg)
+
 # features
 
 - increasing difficulty over time
