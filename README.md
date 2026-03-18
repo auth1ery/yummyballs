@@ -1,6 +1,6 @@
 # yummyballs
 
-a small terminal arcade game written in python using curses.
+a small terminal arcade game written in python using curses with an insanely high skill ceiling.
 
 dodge falling obstacles, collect bonuses, and try to survive as the game speeds up. the longer you survive, the harder it gets!
 
