@@ -17,7 +17,7 @@ dodge falling obstacles, collect bonuses, and try to survive as the game speeds 
 
 you control the ball ("O") and must avoid obstacles as the map scrolls upward.
 
-controls
+### controls
 
 key| action.  
 "a"| move left.  
@@ -29,7 +29,7 @@ the controls are intentional, this assumes you have a QWERTY keyboard, its basic
 - L for right hand to move right
 it just needs a bit of getting used to.
 
-tiles
+### tiles
 
 symbol| meaning.  
 "O"| player.  
