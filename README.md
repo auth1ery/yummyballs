@@ -61,6 +61,7 @@ after installation, run the game with:
 ```
 yummyballs
 ```
+...from anywhere!
 
 # requirements
 
